@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family:sans-serif;
+}
+.container-fluid{
+	background-color: blue;
+}
+.navbar-brand{
+	color:white;
+	float:left;
+}
+.navbar-brand:hover{
+	color:white;
+}
+.navbar-toggle{
+	color:white;
+	border:1px solid white;
+}
+.menu-item{
+	text-align: center;
+	color:white;
+}
+.icon-bar{
+	border:1px solid white;
+}
+		
+div.container{
+			width:100%;
+		}
+
+.content-box {
+border:3px solid black;
+background-color: lightgray;
+margin: 5px;
+}
+p {
+	height:auto;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
