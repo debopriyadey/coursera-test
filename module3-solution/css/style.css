@@ -1,7 +1,8 @@
 *{
 	margin: 0px;
-	padding:0px;
+	padding: 0px;
 	font-family:sans-serif;
+	overflow-x: hidden;
 }
 .container-fluid{
 	background-color: blue;
@@ -32,7 +33,7 @@ div.container{
 .content-box {
 border:3px solid black;
 background-color: lightgray;
-margin: 5px;
+margin:5px;
 }
 p {
 	height:auto;
